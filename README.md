@@ -1,2 +1,2 @@
 # Phonebook
-A phonebook project created to implemente the MVC
+In this simple project I intend to show the implementation of MVC with php.
